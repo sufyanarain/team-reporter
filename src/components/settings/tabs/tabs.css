@@ -1,0 +1,16 @@
+
+
+.mainHead{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 10px;
+    margin-bottom: -10px;
+    font-size: 18px;
+    font-weight: 500;
+    
+}
+
+.mainHead button{
+    width: 250px;
+}

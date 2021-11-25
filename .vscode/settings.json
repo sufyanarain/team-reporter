@@ -1,0 +1,13 @@
+{
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": "SimonSiefke.prettier-vscode",
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "SimonSiefke.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "SimonSiefke.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "SimonSiefke.prettier-vscode"
+    }
+  }

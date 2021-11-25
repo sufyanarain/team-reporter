@@ -1,0 +1,16 @@
+*{
+    margin : 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.formDiv{
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+#loginBtn{
+    margin-left: 5px;
+}
